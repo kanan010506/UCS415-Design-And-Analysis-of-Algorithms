@@ -1,0 +1,9 @@
+Write a program to implement the following algorithms using divide and conquer approach:
+
+1. Consider an array arr[] = {2, 5, 8, 12, 16, 23, 38, 56, 72, 91} and use Binary Search to find the target 23.
+
+2. Implement Merge sort for the given array int arr[] = {12, 11, 13, 5, 6, 7}. After implementing Merge Sort, apply the same implementation to sort another array: int arr2[] = {38, 27, 43, 3, 9, 82, 10}.
+
+3. Implement Quick Sort for arr[n] = { 4, 2, 6, 9, 2 }
+
+4. You are given a 1D array that may contain both positive and negative integers, and find the sum of a contiguous subarray of numbers which has the largest sum. For example, if the given array is {-2, -5, 6, -2, -3, 1, 5, -6}, then the maximum subarray sum is 7.
